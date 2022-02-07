@@ -14,10 +14,10 @@ const Container = styled.div`
   border-radius: 10px;
   width: 80%;
   text-align: center;
-  font-size: 10px;
+  font-size: 20px;
 
   > input {
-    font-size: 10px;
+    font-size: 20px;
     border: none;
     :focus {
       outline: transparent;
